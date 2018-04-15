@@ -523,17 +523,17 @@
     var guest_info = 'nick,mail,link'.split(',').filter(function(item){
         return GUEST_INFO.indexOf(item) > -1
     });
-    var notify = 'false' == true;
-    var verify = 'false' == true;
+    var notify = 'true' == true;
+    var verify = 'true' == true;
     new Valine({
         el: '.vcomment',
         notify: notify,
         verify: verify,
         appId: "2ST3phIXQmxeTaWH64fhxTT1-gzGzoHsz",
         appKey: "4I8MuI4SFdNCoQXaRw0nFVcy",
-        placeholder: "写入你想说的评论留言...",
+        placeholder: "ヾﾉ≧∀≦)o来啊，快活啊!",
         pageSize:'10',
-        avatar:'wavatar',
+        avatar:'retro',
         lang:'zh-cn'
     });
 </script>
