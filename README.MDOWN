@@ -1,5 +1,5 @@
 一个Github pages 博客托管项目.
 
-(Demo)[https://blog.armeo.cn]
+<a href="https://blog.armeo.cn">GitYuanJの博客</a>
 
-<a href="https://blog.armeo.cn">Link text</a>
+属于自己的一个博客空间
